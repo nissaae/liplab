@@ -11,7 +11,7 @@ define('DB_NAME', 'projec15_liplab');
 
 // ========== PENGATURAN SITUS ==========
 define('SITE_NAME', 'LipLab');
-define('SITE_URL', 'http://liplab2.test'); 
+define('SITE_URL', 'http:/liplab.project2ks2.my.id/liplab2'); 
 
 // ========== KONEKSI DATABASE (PDO) ==========
 try {
